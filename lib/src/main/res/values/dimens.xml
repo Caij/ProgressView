@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="circle_line_width">1dp</dimen>
+    <dimen name="fan_padding">4dp</dimen>
+</resources>
