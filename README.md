@@ -2,6 +2,21 @@
 仿微博加载图片进度条
  
 
+##Usage
+
+please use jitpack
+
+```
+    allprojects {
+		repositories {
+			...
+			maven { url "https://jitpack.io" }
+		}
+	}
+
+	compile 'com.github.Caij:ProgressView:-SNAPSHOT'
+```
+
 ![image](show_image.png)
 
 ###License
