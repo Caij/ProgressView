@@ -3,10 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.caij.progressviewa.MainActivity">
+    android:layout_height="match_parent">
 
-    <com.caij.progressviewa.ProgressView
+    <com.caij.progressview.ProgressView
         android:id="@+id/pv"
         android:layout_width="100dp"
         android:layout_height="100dp" />
