@@ -4,8 +4,8 @@
         <attr name="circle_color" format="reference|color"/>
         <attr name="fan_progress_color" format="reference|color"/>
         <attr name="fan_start_angle" format="float"/>
-        <attr name="circle_line_width" format="float"/>
-        <attr name="fan_padding" format="float"/>
+        <attr name="circle_line_width" format="dimension"/>
+        <attr name="fan_padding" format="dimension"/>
 
     </declare-styleable>
 </resources>
