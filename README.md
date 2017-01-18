@@ -14,7 +14,7 @@ please use jitpack
 		}
 	}
 
-	compile 'com.github.Caij:ProgressView:-SNAPSHOT'
+	compile 'com.github.Caij:ProgressView:v1.0.0'
 ```
 
 ![image](show_image.png)
