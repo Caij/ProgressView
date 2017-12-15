@@ -96,6 +96,5 @@ public class ProgressView extends View {
 
     public void setMax(int max) {
         mMaxProgress = max;
-        postInvalidate();
     }
 }
