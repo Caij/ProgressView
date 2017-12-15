@@ -91,11 +91,11 @@ public class ProgressView extends View {
 
     public void setProgress(int progress) {
         mProgress = progress;
-        invalidate();
+        postInvalidate();
     }
 
     public void setMax(int max) {
         mMaxProgress = max;
-        invalidate();
+        postInvalidate();
     }
 }
